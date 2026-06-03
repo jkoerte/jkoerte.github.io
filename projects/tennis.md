@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/20260602_201221.jpg
+image: img/tennis-racket-icon-simple-style-vector.jpg
 title: "Tennis Experience"
 date: 2011 - 2024
 published: true
@@ -11,6 +11,8 @@ labels:
   - Sportsmanship
 summary: "My experience playing tennis."
 ---
+
+<img class = "img-fluid" src = "../img/20260602_201221.jpg ">
 
 I participated in tennis for 10+ years, attending lessons, camps, etc. as well as playing for the teams *Hawaii Prince* and *Ewa Wild* for junior team tennis. I attened both regularly scheduled tennis lessons along with team practices, ocassionally taking private lessons to further improve my tennis skills, and showing up on days when the team had a match. I was also able to build strong relationhips with my coaches and teammates.
 
