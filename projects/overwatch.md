@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Overwatch_circle_logo.svg.png
 title: "Overwatch"
 date: Present
 published: true
