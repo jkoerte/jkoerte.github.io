@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "ICS 212 Bank UI Project"
-date: 2014
+date: 2025
 published: true
 labels:
   - C
