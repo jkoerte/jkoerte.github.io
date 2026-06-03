@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/20260602_201221.jpg
 title: "Tennis Experience"
 date: 2011 - 2024
 published: true
