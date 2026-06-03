@@ -12,7 +12,7 @@ labels:
 summary: "A Bank UI that I developed as a final project for ICS 212."
 ---
 
-<img class="img-fluid" src="img/Screenshot 2026-06-02 221811.png">
+<img width = "200px" src="img/Screenshot 2026-06-02 221811.png">
 
 For my final project in ICS 212 I was tasked with creating a bank UI using C and C++ entirely on UH Unix. It had to allow the user to add, find, delete, or print all accounts. On top of that, their information had to be saved even when they exited the program. It also had to be able to account for user error, such as entering in an invalid command or invalid information, such as a negative integer. 
 
