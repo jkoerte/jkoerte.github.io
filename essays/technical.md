@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../download.jpg">
 
 ## Introduction
 To be honest, I am currently not that knowledgable about software engineering. What knowledge I do have comes from my final year in high school messing around with VSCode, Tailwind CSS and MongoDB, where it was abruptly cut short due to graduation.
