@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2024",
       "endDate": "2028",
@@ -42,7 +42,7 @@
         { "name": "ICS 211" },
         { "name": "ICS 141" },
         { "name": "ICS 241" },
-        { "name": "ICS 212" },
+        { "name": "ICS 212" }
       ]
     }
   ],
