@@ -38,12 +38,12 @@
       "startDate": "2024",
       "endDate": "2028",
       "courses": [
-        { "name": "ICS 111" },
-        { "name": "ICS 211" },
-        { "name": "ICS 141" },
-        { "name": "ICS 241" },
-        { "name": "ICS 212" }
-      ],
+        "ICS 111",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
+        "ICS 212"
+      ]
     }
   ],
   
