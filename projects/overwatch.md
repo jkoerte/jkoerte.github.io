@@ -12,7 +12,7 @@ labels:
 summary: "My achievements in Overwatch and how it helped me to improve"
 ---
 
-<img src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Overwatch is a competetive first-person shooter video game developed by Blizzard. You fight against another team of 5 to either complete an objective or stop the other team from doing so. It may seem like a simple concept, and that it is just another hobby, but there is actually some depth to the gameplay that is not immediately seen.
 
