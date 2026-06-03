@@ -3,22 +3,24 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Vacay"
-date: 2015
+date: Present
 published: true
 labels:
   - Gaming
   - Skill
 
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "My achievemnts in Overwatch and how it helped me to improve"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Overwatch is a competetive first-person shooter video game developed by Blizzard. You fight against another team of 5 to either complete an objective or stop the other team from doing so. It may seem like a simple concept, and that it is just another hobby, but there is actually some depth to the gameplay that is not immediately seen.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In my case, I may not be the highest ranked player, but I feel I have managed to significantly improve myself during my time playing, climbing from the lowest rank all the way up to diamonnd rank which I feel is a very great achievment for myself at least.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I say this because you do not need only good aim in Overwatch. Since you are playing on a team, you need to be able to effectively communicate and account for them when you are fighting the enemy. On top of that there is a lot of micro and macro that you need to be aware of, such as where the enemies are, where to position youself on the map to bring value to your team, who has no abilities they can use, and so much more.
+
+Because of that, I feel this game has significantly improved my team synergy, awarness, but most of all my desire to improve. And I apply that desire to improve to not just Overwatch, but to my studies as well
 
 Here is some example code to illustrate Simple Schema use:
 
