@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/PowerShell_5.0_icon.png
 title: "ICS 212 Bank UI Project"
 date: 2025
 published: true
