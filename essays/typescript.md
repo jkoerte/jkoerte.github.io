@@ -6,16 +6,18 @@ title: "The difficult things will always be difficult"
 date: 2026-06-06
 published: false
 labels:
-  - Typescript
+  - TypeScript
   - Thoughts & Impressions
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-## How It Was, As A Newbie To Typescript
-Having never used Typescript before, I found it to be a very great language to use so far, granted that I have really only scratched the surface of its complexities and what the language fully has to offer. However, for the basics of Typescript I found myself able to catch on provided I put in the time to learn. For my time learning Typescript, I used the online resources *freeCodeCamp* and *W3 Schools*. Much of the syntax for loops, arrays, etc. are similar to what other langauges I have already seen, so perhaps that also helped to enhance my learning.
+## How It Was, As Someone New To TypeScript
+Having never used TypeScript before, I found it to be a very great language to use so far, granted that I have really only scratched the surface of its complexities and what the language fully has to offer. However, for the basics of TypeScript I found myself able to catch on provided I put in the time to learn. For my time learning TypeScript, I used the online resources *freeCodeCamp* and *W3 Schools*. Much of the syntax for loops, arrays, etc. are similar to what other langauges I have already seen, so perhaps that also helped to enhance my learning.
 
-## In the context of programming
+## In Contrast To Other Languages
+Speaking of other languages, when it comes to JavaScript, the clear winner is TypeScript. Everything JavaScript has, TypeScript does too, along with other features to make your coding expeireince safer and more convenent. However, for other langauges I have used I wouldn't necesarilly be able to declare a winner, but there are many differences for sure. I found that Java and C have somehwat similar syntax, especially for declaring variables by putting the type in front of the variable's name. In TypeScript, however, I 
+
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
