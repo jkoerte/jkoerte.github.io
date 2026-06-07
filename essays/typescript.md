@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "A Newbie's Experience With TypeScript And Athletic Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-06
-published: false
+published: true
 labels:
   - TypeScript
   - Thoughts & Impressions
@@ -13,48 +13,16 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## How It Was, As Someone New To TypeScript
-Having never used TypeScript before, I found it to be a very great language to use so far, granted that I have really only scratched the surface of its complexities and what the language fully has to offer. However, for the basics of TypeScript I found myself able to catch on provided I put in the time to learn. For my time learning TypeScript, I used the online resources *freeCodeCamp* and *W3 Schools*. Much of the syntax for loops, arrays, etc. are similar to what other langauges I have already seen, so perhaps that also helped to enhance my learning.
+Having never used TypeScript before, I found it to be a very great language to use so far, granted that I have really only scratched the surface of its complexities and what the language fully has to offer. However, for the basics of TypeScript I found myself able to catch on provided I put in the time to learn. For my time learning TypeScript, I used the online resources *freeCodeCamp* and *W3 Schools*. Much of the syntax for loops, arrays, etc. are similar to what other languages I have already seen, so perhaps that also helped to enhance my learning.
 
 ## In Contrast To Other Languages
-Speaking of other languages, when it comes to JavaScript, the clear winner is TypeScript. Everything JavaScript has, TypeScript does too, along with other features to make your coding expeireince safer and more convenent. Besides JavaScipt I have also used Java and C. As far as I remember, the two langauges when it comes to declaring things like variables, so it stood ot to me that in TypeScript you do not indicate the type before the name of the variable, but after it.
+Speaking of other languages, when it comes to JavaScript, the clear winner is TypeScript. Everything JavaScript has, TypeScript does too, along with other features to make your coding experience safer and more convenient. Besides JavaScript I have also used Java and C. As far as I remember, the two languages are similar when it comes to declaring things like variables, so it stood out to me that in TypeScript you do not indicate the type before the name of the variable, but after it.
 
-With C you have to work very closely with your device's memory, so it was a bit confusing at first. On the other hand, once I was able to get the hang of where the memory is allocated, how to access it, etc. things got better. Especially being able to do traces to lay out where data was allocated and deallocated in memory as the program runs and is used became a huge help in understanding C fundamentally. Overall, it became a very rewarding and intersting langauge to program in. However, because of how much you need to manage memory in C, it can become a bit of a hassle, esepcially because it can be hard to tell *where* your error is at times, and there is also constant concerns about memory leaks and many difficulties with getting and limiting user input safely, to name a few issues.
+With C you have to work very closely with your device's memory, so it was a bit confusing at first. On the other hand, once I was able to get the hang of where the memory is allocated, how to access it, etc. things got better. Especially being able to do traces to lay out where data was allocated and deallocated in memory as the program runs and is used became a huge help in understanding C fundamentally. Overall, it became a very rewarding and interesting language to program in. However, because of how much you need to manage memory in C, it can become a bit of a hassle, especially because it can be hard to tell *where* your error is at times, and there are also constant concerns about memory leaks and many difficulties with getting and limiting user input safely, to name a few issues.
 
-With that in mind, by comparison, I feel TypeScript is a great language for software development because of its flexibility.
+With that in mind, by comparison, I feel TypeScript is a great language for software development because of its flexibility. Type inference is a notable feature which makes it very easy to not have to worry about simple variables, as TypeScript is smart enough to figure it out on its own based on the object's assigned value. That way, you cannot accidentally assign a wrong value to a variable. This is further enhanced by compile time type checking which allows type mismatches to be caught very easily before the code is even run. There is even the special type 'unknown' for special cases where you might not be quite sure what value you want a variable to be yet, but still need TypeScript to type check. In my short time with TypeScript these are just a few I have found, and I'm sure there will be many more as I continue to learn.
+
+## Practicing Programming Under Pressure
+Recently, I have also been introduced to *Athletic Software Engineering* with its main feature being *Workouts of the Day* (WOD). They are timed tasks designed to build competency and acquire programming skills, but so far, I have only done ones for practice. To be honest, it was quite stressful to be timed, but it really got me thinking about what I needed to do to finish the task in time. The videos that come along with the practice WODs are also very helpful for pointing me in the right direction. The main caveat to WODs is that either you complete the task in time or you don’t, so I can imagine that the stress will be even greater on the ones that are graded, but that is what the practice WODs are for. And so despite the stress, I think this will be a very beneficial learning style in terms of developing said competency and programming skills over time.
 
 
-
-However, for other langauges I have used, I wouldn't necesarilly be able to declare a winner, but there are many differences for sure. I found that Java and C have somehwat similar syntax, especially for declaring variables by putting the type in front of the variable's name. Java is very heavily class-based and for C, you need to work very initmately with your device's memory, which in my opinion, differs drastically from JavaScript in many ways
-
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-flexibility with any an unknown tpes, and type inference which is useful
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
