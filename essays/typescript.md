@@ -16,7 +16,15 @@ labels:
 Having never used TypeScript before, I found it to be a very great language to use so far, granted that I have really only scratched the surface of its complexities and what the language fully has to offer. However, for the basics of TypeScript I found myself able to catch on provided I put in the time to learn. For my time learning TypeScript, I used the online resources *freeCodeCamp* and *W3 Schools*. Much of the syntax for loops, arrays, etc. are similar to what other langauges I have already seen, so perhaps that also helped to enhance my learning.
 
 ## In Contrast To Other Languages
-Speaking of other languages, when it comes to JavaScript, the clear winner is TypeScript. Everything JavaScript has, TypeScript does too, along with other features to make your coding expeireince safer and more convenent. However, for other langauges I have used I wouldn't necesarilly be able to declare a winner, but there are many differences for sure. I found that Java and C have somehwat similar syntax, especially for declaring variables by putting the type in front of the variable's name. In TypeScript, however, I 
+Speaking of other languages, when it comes to JavaScript, the clear winner is TypeScript. Everything JavaScript has, TypeScript does too, along with other features to make your coding expeireince safer and more convenent. Besides JavaScipt I have also used Java and C. As far as I remember, the two langauges when it comes to declaring things like variables, so it stood ot to me that in TypeScript you do not indicate the type before the name of the variable, but after it.
+
+With C you have to work very closely with your device's memory, so it was a bit confusing at first. On the other hand, once I was able to get the hang of where the memory is allocated, how to access it, etc. things got better. Especially being able to do traces to lay out where data was allocated and deallocated in memory as the program runs and is used became a huge help in understanding C fundamentally. Overall, it became a very rewarding and intersting langauge to program in. However, because of how much you need to manage memory in C, it can become a bit of a hassle, esepcially because it can be hard to tell *where* your error is at times, and there is also constant concerns about memory leaks and many difficulties with getting and limiting user input safely, to name a few issues.
+
+With that in mind, by comparison, I feel TypeScript is a great language for software development because of its flexibility.
+
+
+
+However, for other langauges I have used, I wouldn't necesarilly be able to declare a winner, but there are many differences for sure. I found that Java and C have somehwat similar syntax, especially for declaring variables by putting the type in front of the variable's name. Java is very heavily class-based and for C, you need to work very initmately with your device's memory, which in my opinion, differs drastically from JavaScript in many ways
 
 
 In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
