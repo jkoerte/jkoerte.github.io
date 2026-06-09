@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Ask Smart Questions, Get Smart Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2026-06-08
 published: true
 labels:
   - Questions
@@ -128,7 +128,7 @@ public static boolean isPalindromeHelper(String in){
 Can anyone supply a solution to my problem?
 ```
 
-For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them the benefit of the doubt, perhaps they are new to recursion, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
+For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them the benefit of the doubt, perhaps they are new to programming, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
 
 Luckily for them someone copy-pasted an answer from somewhere on the web, but that really defeats the purpose of asking specific questions to try and learn what you need to rather than just being handed the answer. It does not promote thinking or discussion in the community, and so overall, it does not really benefit anyone in a meaningful way outside of getting the needed answer.
 
