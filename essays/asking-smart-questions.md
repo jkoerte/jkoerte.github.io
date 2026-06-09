@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smartquestions.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/smartquestions.png">
 
 ## Their Question Gets An *A+*
 I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website. One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specific ways, that it would only output 'true' or only output 'false'.
