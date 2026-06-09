@@ -87,12 +87,16 @@ x !== false && x !== null && x !== undefined && x !== '' && x !== 0
 That last clause is what's catching you. You initialize the value to 0 to start with but your code will never catch that.
 ```
 
+---
+
 As far as I could tell, there were many more detailed answers, and the asker even replied to the person who gave the response above to thank them and praise the thoroughness and clearness of the response. The additional replies also lacked that distinct sarcasm and wit that annoyed hackers often answer a dumb question with. Additionally, since it was about some JavaScript fundamentals, I also found the response to be quite useful.
 
 Here is a <a target="_blank" href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
 
 ## You Failed, But There's Always Next Time
-Here we have an example of someone who really didn't even try. He offers little information on what he has a problem with, and just pastes a block of code for those who are even willing to sift through and make out an error. He basically just asks for a straight up answer, which many on the website were not too happy with.
+Here we have an example of someone who really didn't even try. He offers little information on what they have a problem with, and just pastes a block of code for those who are even willing to sift through and make out an error. They basically just ask for a straight up answer, which many on the website were not too happy with.
+
+---
 
 ```
 Q: Creating a recursive method for Palindrome
@@ -127,6 +131,7 @@ public static boolean isPalindromeHelper(String in){
 
 Can anyone supply a solution to my problem?
 ```
+---
 
 For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them the benefit of the doubt, perhaps they are new to programming, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
 
