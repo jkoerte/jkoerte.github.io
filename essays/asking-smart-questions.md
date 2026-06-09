@@ -89,7 +89,7 @@ That last clause is what's catching you. You initialize the value to 0 to start 
 
 As far as I could tell, there were many more detailed answers, and the asker even replied to the person who gave the response above to thank them and praise the thoroughness and clearness of the response. The additional replies also lacked that distinct sarcasm and wit that annoyed hackers often answer a dumb question with. Additionally, since it was about some JavaScript fundamentals, I also found the response to be quite useful.
 
-Here is a <a href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
+Here is a <a target= "_blank" href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
 
 ## You Failed, But There's Always Next Time
 
