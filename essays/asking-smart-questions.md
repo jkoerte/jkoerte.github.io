@@ -14,14 +14,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Their Question Gets An *A+*
-On visiting Stack Overflow, a Q&A site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-
-I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website.
-
-One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specfic ways, that it would only output 'true' or only output 'false'.
+I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website. One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specfic ways, that it would only output 'true' or only output 'false'.
 
 ```
 Q: Check if a string is composed of all unique characters-- not equal to operator in JavaScript
