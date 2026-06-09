@@ -89,25 +89,50 @@ That last clause is what's catching you. You initialize the value to 0 to start 
 
 As far as I could tell, there were many more detailed answers, and the asker even replied to the person who gave the response above to thank them and praise the thoroughness and clearness of the response. The additional replies also lacked that distinct sarcasm and wit that annoyed hackers often answer a dumb question with. Additionally, since it was about some JavaScript fundamentals, I also found the response to be quite useful.
 
-Here is a <a target= "_blank" href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
+Here is a <a target="_blank" href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
 
 ## You Failed, But There's Always Next Time
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+Here we have an example of someone who relly didn't even try. He offers little infromation on what he has a problem with, and just pastes a block of code for those who are even willing to sift through an make out an error. He basically just asks for a straight up answer, which many on the website were not to happy with.
 
 ```
-Q: Facebook Desktop Notifier
+Q: Creating a recursive method for Palindrome
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+I am trying to create a Palindrome program using recursion within Java but I am stuck, this is what I have so far:
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+// Source - https://stackoverflow.com/q/4367260
+// Posted by Nightshifterx, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-06-08, License - CC BY-SA 3.0
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+ public static void main (String[] args){
+ System.out.println(isPalindrome("noon"));
+ System.out.println(isPalindrome("Madam I'm Adam"));
+ System.out.println(isPalindrome("A man, a plan, a canal, Panama"));
+ System.out.println(isPalindrome("A Toyota"));
+ System.out.println(isPalindrome("Not a Palindrome"));
+ System.out.println(isPalindrome("asdfghfdsa"));
+}
+
+public static boolean isPalindrome(String in){
+ if(in.equals(" ") || in.length() == 1 ) return true;
+ in= in.toUpperCase();
+ if(Character.isLetter(in.charAt(0))
+}
+
+public static boolean isPalindromeHelper(String in){
+ if(in.equals("") || in.length()==1){
+  return true;
+  }
+ }
+}
+
+Can anyone supply a solution to my problem?
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them benefit of the doubt, perhaps they are new to recursion, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
+
+Luckily for them someone copy-pasted an answer from somewhere on the web, but that really defeats the purpose of asking specific questions to try and learn what you need to rather than just being handed the answer. It does not promote thinking or discussion in the community, and so overall, it does not really benefit anyone in a meaningful way outside of getting the needed answer.
+
+Here is the <a target = "_blank" href = "https://stackoverflow.com/questions/4367260/creating-a-recursive-method-for-palindrome">link</a> to the StackOverflow page
 
 ## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+I think both of the questions, good and bad, helped me gain some insights into the importance of asking smart questions. I can see now that it is just good practice to provide as much as you can to catch people up to speed on what you need help with. Not only does it help you to receive more intrest in your question, but also helps the viewer to pick up on your problems faster. As they say, "help me help you". I also see the importance of doing resarch beforehand. This ties into the idea of being able to provide as much info as you can, but you may even be able to find a solution on your own. On top of that, you have less a chance of making a fool of yourself on a public forum, and show that you at least put in the effort, regardless of the outcome. And lastly, it is a great way to just improve your knowledge. Asking specific and educated questions allows you to, once again, possibly recieve responsed faster, but also to further build upon what knowledge you already have, which is never a bad thing. That is just a few of the many benefits of asking smart questions that I can think of, bbut when asking smart questions, you can expect smart responses at the very least.
