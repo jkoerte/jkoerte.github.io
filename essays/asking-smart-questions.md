@@ -14,7 +14,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Their Question Gets An *A+*
-I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website. One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specfic ways, that it would only output 'true' or only output 'false'.
+I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website. One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specific ways, that it would only output 'true' or only output 'false'.
 
 ```
 Q: Check if a string is composed of all unique characters-- not equal to operator in JavaScript
@@ -47,9 +47,9 @@ If I change this line to if (charMap[string[i]]) { (which I think should be the 
 Can someone please give a plain text explanation of the differences between these three? I may be making a silly mistake in thinking they are similar so please bear with me.
 ```
 
-To me, this response seems decently smart. First of all, they start with a “object - deviation” heading format, where “object” specifies what is having a problem, and the “deviation” part describes the deviation from expected behavior. They also provide what code they have which is better than providing nothing for others to work with, and leading them down a path of needing to ask a million questions. I also noticed how they at least demonstrated that they tried different ways to fix their problem rather than trying to get a free answer, and that they did not directly just ask for the answer, but instead asked to help clear up their misudnerstandings instead. Of course, thats not to say there isn't room for improvement, such as a bit of courtesy athough not nearly as necesarry compared to clarity.
+To me, this response seems decently smart. First of all, they start with a “object - deviation” heading format, where “object” specifies what is having a problem, and the “deviation” part describes the deviation from expected behavior. They also provide what code they have which is better than providing nothing for others to work with, and leading them down a path of needing to ask a million questions. I also noticed how they at least demonstrated that they tried different ways to fix their problem rather than trying to get a free answer, and that they did not directly just ask for the answer, but instead asked to help clear up their misunderstandings instead. Of course, that's not to say there isn't room for improvement, such as a bit of courtesy although not nearly as necessary compared to clarity.
 
-In return for this good question, the user recieved a very thorough response:
+In return for this good question, the user received a very thorough response:
 
 ```
 There are two values in JavaScript which are very similar to each other: undefined and null.
@@ -92,7 +92,7 @@ As far as I could tell, there were many more detailed answers, and the asker eve
 Here is a <a target="_blank" href = "https://stackoverflow.com/questions/42073776/check-if-a-string-is-composed-of-all-unique-characters-not-equal-to-operator-i">link</a> to the StackOverflow page
 
 ## You Failed, But There's Always Next Time
-Here we have an example of someone who relly didn't even try. He offers little infromation on what he has a problem with, and just pastes a block of code for those who are even willing to sift through an make out an error. He basically just asks for a straight up answer, which many on the website were not to happy with.
+Here we have an example of someone who really didn't even try. He offers little information on what he has a problem with, and just pastes a block of code for those who are even willing to sift through and make out an error. He basically just asks for a straight up answer, which many on the website were not too happy with.
 
 ```
 Q: Creating a recursive method for Palindrome
@@ -128,11 +128,11 @@ public static boolean isPalindromeHelper(String in){
 Can anyone supply a solution to my problem?
 ```
 
-For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them benefit of the doubt, perhaps they are new to recursion, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
+For starters, as a comment I read pointed out, the user does not even have *any* recursion in their code block. To give them the benefit of the doubt, perhaps they are new to recursion, but it seems more like an indicator that they did not do any research prior, and are just looking for a quick answer.
 
 Luckily for them someone copy-pasted an answer from somewhere on the web, but that really defeats the purpose of asking specific questions to try and learn what you need to rather than just being handed the answer. It does not promote thinking or discussion in the community, and so overall, it does not really benefit anyone in a meaningful way outside of getting the needed answer.
 
 Here is the <a target = "_blank" href = "https://stackoverflow.com/questions/4367260/creating-a-recursive-method-for-palindrome">link</a> to the StackOverflow page
 
 ## Conclusion
-I think both of the questions, good and bad, helped me gain some insights into the importance of asking smart questions. I can see now that it is just good practice to provide as much as you can to catch people up to speed on what you need help with. Not only does it help you to receive more intrest in your question, but also helps the viewer to pick up on your problems faster. As they say, "help me help you". I also see the importance of doing resarch beforehand. This ties into the idea of being able to provide as much info as you can, but you may even be able to find a solution on your own. On top of that, you have less a chance of making a fool of yourself on a public forum, and show that you at least put in the effort, regardless of the outcome. And lastly, it is a great way to just improve your knowledge. Asking specific and educated questions allows you to, once again, possibly recieve responsed faster, but also to further build upon what knowledge you already have, which is never a bad thing. That is just a few of the many benefits of asking smart questions that I can think of, bbut when asking smart questions, you can expect smart responses at the very least.
+I think both of the questions, good and bad, helped me gain some insights into the importance of asking smart questions. I can see now that it is just good practice to provide as much as you can to catch people up to speed on what you need help with. Not only does it help you to receive more interest in your question, but also helps the viewer to pick up on your problems faster. As they say, "help me help you". I also see the importance of doing research beforehand. This ties into the idea of being able to provide as much info as you can, but you may even be able to find a solution on your own. On top of that, you have less of a chance of making a fool of yourself on a public forum, and show that you at least put in the effort, regardless of the outcome. And lastly, it is a great way to just improve your knowledge. Asking specific and educated questions allows you to, once again, possibly receive responses faster, but also to further build upon what knowledge you already have, which is never a bad thing. That is just a few of the many benefits of asking smart questions that I can think of, but when asking smart questions, you can expect smart responses at the very least.
