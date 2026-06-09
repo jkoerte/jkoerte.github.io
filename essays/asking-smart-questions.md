@@ -16,6 +16,8 @@ labels:
 ## Their Question Gets An *A+*
 I was tasked with visiting Stack Overflow, a Q&A website for programmers, to expand my knowledge on both smart and dumb questions, both of which are in abundance on the website. One example I found of a smart question is by someone who wanted to figure out why, when he changed his code in specific ways, that it would only output 'true' or only output 'false'.
 
+---
+
 ```
 Q: Check if a string is composed of all unique characters-- not equal to operator in JavaScript
 
@@ -46,6 +48,7 @@ If I change this line to if (charMap[string[i]]) { (which I think should be the 
 
 Can someone please give a plain text explanation of the differences between these three? I may be making a silly mistake in thinking they are similar so please bear with me.
 ```
+---
 
 To me, this response seems decently smart. First of all, they start with a “object - deviation” heading format, where “object” specifies what is having a problem, and the “deviation” part describes the deviation from expected behavior. They also provide what code they have which is better than providing nothing for others to work with, and leading them down a path of needing to ask a million questions. I also noticed how they at least demonstrated that they tried different ways to fix their problem rather than trying to get a free answer, and that they did not directly just ask for the answer, but instead asked to help clear up their misunderstandings instead. Of course, that's not to say there isn't room for improvement, such as a bit of courtesy although not nearly as necessary compared to clarity.
 
