@@ -24,6 +24,3 @@ What I most want to expereience now and in the future is opportunities to write 
 
 ## Conclusion
 Overall, I hope to develop my fundamentals further while also experiencing things that will allow me to grow as both a person and a programmer. I believe all my previous ICS classes, and now ICS 314 will be able to help me achieve that, and in the future, I'm sure there will be many more opportunities to learn and experience great and helpful things.
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
