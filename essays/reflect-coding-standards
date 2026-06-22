@@ -14,7 +14,19 @@ labels:
 ## More Than Just Forgetting A Semicolon
 Even in the sense of simple coding standards, such as semicolons or where you place curlybraces, they can be quite important. They are the baseline for creating readable, and easily understandable code that follows these common coding standards. It can only benefit you and others as programmers to have this kind of easy-to-look-at code. All this to say, coding standards, including the minutia, are integral to creating quality code. However, after using ESLint, I now understand that there are much more involved ways of standardizing code. 
 
-When working on an assignment to apply ESLint coding standards to an intentionally bad TypeScript file, a few that stood out to me was the suggestion to use dot (.) notation for arrays over bracket ([]) notation
+When working on an assignment to apply ESLint coding standards to an intentionally bad TypeScript file, a few that stood out to me was the suggestion to use dot (.) notation for objects over bracket ([]) notation to access their properties' values
+
+ex.
+```
+const User = {
+  name: "Bob"
+  age: 25
+}
+const myName = User['name']
+const myName = User.name
+
+
+```
 
 I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
