@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Cleaning Up The (ES)Lint In Code"
+title: "Cleaning Up The (ES)Lint In My Code"
 # All dates must be YYYY-MM-DD format!
 date: 2026-06-22
 published: false
@@ -11,23 +11,13 @@ labels:
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
 ## More Than Just Forgetting A Semicolon
 Even in the sense of simple coding standards, such as semicolons or where you place curlybraces, they can be quite important. They are the baseline for creating readable, and easily understandable code that follows these common coding standards. It can only benefit you and others as programmers to have this kind of easy-to-look-at code. All this to say, coding standards, including the minutia, are integral to creating quality code. However, after using ESLint, I now understand that there are much more involved ways of standardizing code. 
 
-When working on an assignment to apply ESLint coding standards to an intentionally bad TypeScript file, a few that stood out to me was the suggestion to use dot (.) notation for objects over bracket ([]) notation to access their properties' values
+When working on an assignment to apply ESLint coding standards to an intentionally bad TypeScript file, a few that stood out to me was the suggestion to use dot (.) notation for objects over bracket ([]) notation to access their properties' values, or to use array literal notation instead of using the *new* operator. Having some of these coding standards can definitely help many to learn a langauge first of all, by reducing the time it takes to have to understand a piece of code. I think it also allows them to pick up on patterns that many of the language's features share as opposed to having to go based entirely of another programmer's coding style.
 
-ex.
-```
-const User = {
-  name: "Bob"
-  age: 25
-}
-const myName = User['name']
-const myName = User.name
-
-
-```
-
+## A Week Of ESLint
 I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
 I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
