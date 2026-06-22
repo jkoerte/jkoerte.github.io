@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="img/ESLint-logo">
+<img width="100px" class="rounded float-start pe-4" src=".../img/ESLint-logo">
 
 ## More Than Just Forgetting A Semicolon
 Even in the sense of simple coding standards, such as semicolons or where you place curlybraces, they can be quite important. They are the baseline for creating readable, and easily understandable code that follows these common coding standards. It can only benefit you and others as programmers to have this kind of easy-to-look-at code. All this to say, coding standards, including the minutia, are integral to creating quality code. However, after using ESLint, I now understand that there are much more involved ways of standardizing code. 
