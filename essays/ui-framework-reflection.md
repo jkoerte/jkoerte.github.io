@@ -17,13 +17,13 @@ From my experience with Bootstrap, it can be quite challening to get a grasp of,
 ## So, Why Bother With Bootstrap?
 Despite the significant learning curve that it has, Bootstrap provides a much cleaner and quick way to implement UI components into your project, provided you are willing to put in the time and effort to understand it. In theory, you could use only raw HTML and CSS, but that would mean building everything from scratch yourself. In that case, you may end up with a stylesheet hundreds of lines long for just one or two components, whereas Bootstrap gives these to you pre-built. That does not mean, however, that you are locked in to whatever the Bootstrap gods have designed for you. Following the "CSS Box Model", there are many ways to change individual margins, padding, and more including positioning. And if even that is not enough, you are more than welcome to apply your own CSS to Bootstrap components.
 
-<figure>
-  <img style = "display: inline-block" width="400" class="rounded" src="../img/craigslist.png" alt="Without UI Framework">
+<figure style = "display: inline-block" >
+  <img width="400" class="rounded" src="../img/craigslist.png" alt="Without UI Framework">
   <figcaption><em>Without a UI Framework</em></figcaption>
 </figure>
 
-<figure>
-  <img style = "display: inline-block" width="400" class="rounded" src="../img/linkedin.png" alt="With UI Framework">
+<figure style = "display: inline-block" >
+  <img width="400" class="rounded" src="../img/linkedin.png" alt="With UI Framework">
   <figcaption><em>With a UI Framework</em></figcaption>
 </figure>
 
