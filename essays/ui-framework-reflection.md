@@ -4,7 +4,7 @@ type: essay
 title: "Pulling Myself Up By Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-03
-published: false
+published: true
 labels:
   - UI Frameworks
   - Reflection
@@ -19,12 +19,12 @@ Despite the significant learning curve that it has, Bootstrap provides a much cl
 
 <figure>
   <img style = "display: inline-block" width="400" class="rounded" src="../img/craigslist.png" alt="Without UI Framework">
-  <figcaption>Without a UI Framework</figcaption>
+  <figcaption><em>Without a UI Framework</em></figcaption>
 </figure>
 
 <figure>
   <img style = "display: inline-block" width="400" class="rounded" src="../img/linkedin.png" alt="With UI Framework">
-  <figcaption>With a UI Framework</figcaption>
+  <figcaption><em>With a UI Framework</em></figcaption>
 </figure>
 
 ## Conclusion and Final Thoughts
