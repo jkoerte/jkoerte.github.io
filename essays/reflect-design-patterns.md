@@ -4,7 +4,7 @@ type: essay
 title: "Pulling Myself Up By Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-03
-published: true
+published: false
 labels:
   - UI Frameworks
   - Reflection
