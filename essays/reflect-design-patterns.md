@@ -1,24 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "Pulling Myself Up By Bootstrap"
+title: "Crash Course to Understanding Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2026-07-03
-published: false
+date: 2026-07-30
+published: true
 labels:
-  - UI Frameworks
+  - Design Patterns
   - Reflection
-  - Bootstrap
 ---
 
-## How Was Bootstrap?
-From my experience with Bootstrap, it can be quite challenging to get a grasp of, much like learning a new language. There are so many components that you have access to, and it has its own syntax for implementing it into your HTML that can differ quite a bit from the CSS that many may be used to. On top of that, every tag seems to want to be nested inside each other, especially for navbars with dropdown menus where you need to make an unordered list, not to mention all the other content that goes inside which may also need to be nested.
+## You Can Just Copy-And-Paste, Right?... Wrong.
+As a whole, the idea of Software Engineering is still quite new to me. ICS 314 is my first experience with anything of the sort. Therefore, my understanding of design patterns is quite limited as well, much more so than other topics covered in the class so far. However, if there is one thing I am sure of, it is that design patterns are not something you just copy and paste into your code. It does not have a strict or precise format, but is instead more of an idea that can be executed in many ways to solve a problem.
 
-## So, Why Bother With Bootstrap?
-Despite the significant learning curve that it has, Bootstrap provides a much cleaner and quick way to implement UI components into your project, provided you are willing to put in the time and effort to understand it. In theory, you could use only raw HTML and CSS, but that would mean building everything from scratch yourself. In that case, you may end up with a stylesheet hundreds of lines long for just one or two components, whereas Bootstrap gives these to you pre-built. That does not mean, however, that you are locked in to whatever the Bootstrap gods have designed for you. Following the "CSS Box Model", there are many ways to change individual margins, padding, and more including positioning. And if even that is not enough, you are more than welcome to apply your own CSS to Bootstrap components.
+## Plumbing Up With Analogies For Design Patterns
+Now, if you are anything like me, then this will be a difficult concept to grasp, so perhaps it is better to think about it like plumbing for a house...
 
-| <img width="400px" class="rounded me-5" src="../img/craigslist.png" alt="Website Without UI Framework"> | <img width="400px" class="rounded ms-5" src="../img/linkedin.png" alt="Website With UI Framework"> |
-| <em>Website Without a UI Framework</em> | <em>Website With a UI Framework</em> |
+Suppose that you want flowing water to all your plumbing fixtures (sink, toilet, shower/bath, etc.). There is not just one set way to establish pipe lines to each fixture; lots of houses have different structures, interiors, and so on. Your local hardware store does not sell pre-built "one size fits all" pipe layouts, because they do not exist. More generally, a single-story house will more than likely not have the same pipe pattern as a two story house, or a three story apartment. And yet despite the differences in layout, the best practice of potential problems remains the same
 
-## Conclusion and Final Thoughts
-I think this is very useful in terms of software engineering because it saves time. I think most people would agree that they would rather have something trustworthy and pre-built rather than needing to waste their time making it all from scratch. So, overall, despite the learning curve and frustration that Bootstrap may initially bring, once you get the hang of it you will be giving yourself a much easier time when creating websites.
+The foremost problem of plumbing is even getting water to the fixtures. If you had an individual pipe for every fixture, it would not be very good for your house. The best practice in this case is to find some way to give each house only one central, main water supply entryway. The idea remains the same, but the execution may be different depending on various factors such as location.
+
+Another important problem is getting clean water to use. The best practice here is obviously to run it through several filters, with each building off the previous filter. While the design pattern of using filters for dirty water remains the same, how it is executed can differ.
+
+## From Plumbing to Programming
+Now that I have shared some analogies for design patterns via plumbing, I will try to relate those to some I have used in my final project for ICS 314.
+
+In terms of a central, main water supply entryway, my team and I use a single Prisma connection to our database. Creating a connection for each page that needs to access some part of the database would eventually make too many for it to handle. Thus, the design pattern of having only a single connection is useful here, and executed with Prisma.
+
+In terms of the water filter, I need data associated with a user to be usable in the current session, so I first need to "filter" it through `authorize()` to validate the user's credentials. Then, I "filter" it through `jwt()` to encrypt it in tokens. Finally, `session()` "filters out whatever data came from `jwt()` that is not safe to be displayed on the frontend.
+
+## Final Thoughts
+Design patterns are nothing like UI frameworks despite initially thinking so. Design patterns are a lot more flexible, and I see that it is used for backend development such as databases, connections, etc. and not so much for the frontend compared to UI components.
+
+*Use of Google Gemini 3.6 Flash Extended to assist in creation of analogies*
+
+
