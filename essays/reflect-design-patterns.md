@@ -9,6 +9,7 @@ labels:
   - Design Patterns
   - Reflection
 ---
+<img width="100px" class="rounded float-start pe-4" src="../img/ESLint-logo.png">
 
 ## You Can Just Copy-And-Paste, Right?... Wrong.
 As a whole, the idea of Software Engineering is still quite new to me. ICS 314 is my first experience with anything of the sort. Therefore, my understanding of design patterns is quite limited as well, much more so than other topics covered in the class so far. However, if there is one thing I am sure of, it is that design patterns are not something you just copy and paste into your code. It does not have a strict or precise format, but is instead more of an idea that can be executed in many ways to solve a problem.
