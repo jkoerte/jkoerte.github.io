@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Crash Course to Understanding Design Patterns"
+title: "My Crash Course to Understanding Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-30
 published: true
@@ -11,7 +11,7 @@ labels:
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/design-patterns.png">
 
-## You Can Just Copy-And-Paste, Right?... Wrong.
+## You Can Just Copy-And-Paste, Right?... Wrong
 As a whole, the idea of Software Engineering is still quite new to me. ICS 314 is my first experience with anything of the sort. Therefore, my understanding of design patterns is quite limited as well, much more so than other topics covered in the class so far. However, if there is one thing I am sure of, it is that design patterns are not something you just copy and paste into your code. It does not have a strict or precise format, but is instead more of an idea that can be executed in many ways to solve a problem.
 
 ## Plumbing Up With Analogies For Design Patterns
@@ -28,7 +28,7 @@ Now that I have shared some analogies for design patterns via plumbing, I will t
 
 In terms of a central, main water supply entryway, my team and I use a single Prisma connection to our database. Creating a connection for each page that needs to access some part of the database would eventually make too many for it to handle. Thus, the design pattern of having only a single connection is useful here, and executed with Prisma.
 
-In terms of the water filter, I need data associated with a user to be usable in the current session, so I first need to "filter" it through `authorize()` to validate the user's credentials. Then, I "filter" it through `jwt()` to encrypt it in tokens. Finally, `session()` "filters out whatever data came from `jwt()` that is not safe to be displayed on the frontend.
+In terms of the water filter, I need data associated with a user to be usable in the current session, so I first need to "filter" it through `authorize()` to validate the user's credentials. Then, I "filter" it through `jwt()` to encrypt it in tokens. Finally, `session()` "filters" out whatever data came from `jwt()` that is not safe to be displayed on the frontend.
 
 ## Final Thoughts
 Design patterns are nothing like UI frameworks despite initially thinking so. Design patterns are a lot more flexible, and I see that it is used for backend development such as databases, connections, etc. and not so much for the frontend compared to UI components.
