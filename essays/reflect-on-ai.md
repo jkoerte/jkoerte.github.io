@@ -34,7 +34,7 @@ Despite the significant learning curve that it has, Bootstrap provides a much cl
 <li>Explaining code</li>
 <li>Writing code</li>
 <li>Documenting code</li>
-<li>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</li>
+<li>Quality assurance e.g. "What's wrong with this code \<code here\>" or "Fix the ESLint errors in \<code here>\"</li>
 <li>Other uses in ICS 314 not listed</li>
 </ul>
 
