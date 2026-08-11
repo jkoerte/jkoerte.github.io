@@ -21,22 +21,21 @@ how it is use for SE
 ## II. Personal Experience With AI
 Despite the significant learning curve that it has, Bootstrap provides a much cleaner and quick way to implement UI components into your project, provided you are willing to put in the time and effort to understand it. In theory, you could use only raw HTML and CSS, but that would mean building everything from scratch yourself. In that case, you may end up with a stylesheet hundreds of lines long for just one or two components, whereas Bootstrap gives these to you pre-built. That does not mean, however, that you are locked in to whatever the Bootstrap gods have designed for you. Following the "CSS Box Model", there are many ways to change individual margins, padding, and more including positioning. And if even that is not enough, you are more than welcome to apply your own CSS to Bootstrap components.
 
-<ul>
-<li>Experience quizzes e.g. E18</li>
-<li>Practice quizzes</li>
-<li>Quizzes</li>
-<li>Essays</li>
-<li>Final project</li>
-<li>Learning a concept / tutorial</li>
-<li>Answering a question in class or in Discord</li>
-<li>Asking or answering a smart-question</li>
-<li>Coding example e.g. “give an example of using Underscore .pluck”</li>
-<li>Explaining code</li>
-<li>Writing code</li>
-<li>Documenting code</li>
-<li>Quality assurance e.g. "What's wrong with this code \<code here\>" or "Fix the ESLint errors in \<code here\>"</li>
-<li>Other uses in ICS 314 not listed</li>
-</ul>
+- Experience quizzes e.g. E18
+    - Hello
+- Practice quizzes
+- Quizzes
+- Essays
+- Final project
+- Learning a concept / tutorial
+- Answering a question in class or in Discord
+- Asking or answering a smart-question
+- Coding example e.g. “give an example of using Underscore .pluck”
+- Explaining code
+- Writing code
+- Documenting code
+- Quality assurance e.g. "What's wrong with this code `<code here>`" or "Fix the ESLint errors in `<code here>`"
+- Other uses in ICS 314 not listed
 
 | <img width="400px" class="rounded me-5" src="../img/craigslist.png" alt="Website Without UI Framework"> | <img width="400px" class="rounded ms-5" src="../img/linkedin.png" alt="Website With UI Framework"> |
 | <em>Website Without a UI Framework</em> | <em>Website With a UI Framework</em> |
@@ -44,12 +43,12 @@ Despite the significant learning curve that it has, Bootstrap provides a much cl
 ## III. Impact on Learning and Understanding
 I think this is very useful in terms of software engineering because it saves time. I think most people would agree that they would rather have something trustworthy and pre-built rather than needing to waste their time making it all from scratch. So, overall, despite the learning curve and frustration that Bootstrap may initially bring, once you get the hang of it you will be giving yourself a much easier time when creating websites.
 
-## IV Practical Applications
+## IV. Practical Applications
 
-## V Challenges and Opportunities
+## V. Challenges and Opportunities
 
-## VI Comparative Analysis
+## VI. Comparative Analysis
 
-## VII Future Considerations
+## VII. Future Considerations
 
-## VIII Conclusion
+## VIII. Conclusion
