@@ -17,9 +17,10 @@ labels:
 Hello
 
 ## Be An Engineer, Be Ethical
-In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to understand the effect you can have on the many people using your app, and to take full responsibility should something happen. No matter what position you are in, chances are that your actions may cause harm to others, and so the most important thing is to avoid said harm
+In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to understand the effect you can have on the many people using your app, and to take full responsibility should something happen. 
 
-Simply because we are human, we have an ethical obligation to other humans, and this fact persists throughout everything, not just in the context of web apps.
+Common sense?
+Simply because we are human, we have an ethical obligation to other humans, and this fact persists throughout everything, not just in the context of web apps. No matter what position you are in, chances are that your actions may cause harm to others, and so the most important thing is to avoid said harm
 do not be negligent
 
 ## Everybody's Got Issues
