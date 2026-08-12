@@ -10,6 +10,7 @@ labels:
   - Critical Analysis
   - Reflection
 ---
+<img width="400px" class="rounded me-5 float-right" src="../img/craigslist.png" alt="Website Without UI Framework">
 
 ## I. Introduction
 AI in *anything* is undoubtedly a very controversial topic at the moment, and as for its role in education, English teachers might have some strong words on the matter...
@@ -113,8 +114,4 @@ This also ties into the idea of knowledge retention, since one way to increase t
 I am hopeful for the future that AI will significantly enhance and streamline software engineering education. A potential advancement may be the ability to have all software engineering classes be async, as content would be specifically tuned to an individual student. Perhaps some challenges may be professors needing to regulate their students' use of AI to ensure they are actually learning the content rather than regurgitating what AI generates for them. Also, I do think that as AI becomes more integrated in the world, there will eventually need to be more of a focus on teaching about the ethical use of AI, especially in the workplace. I also think there will always be room for improvement in the course curriculum, as the landscape of software engineering is everchanging and it is important to keep students up-to-date.
 
 ## VIII. Conclusion
-
-
-| <img width="400px" class="rounded me-5" src="../img/craigslist.png" alt="Website Without UI Framework"> | <img width="400px" class="rounded ms-5" src="../img/linkedin.png" alt="Website With UI Framework"> |
-| <em>Website Without a UI Framework</em> | <em>Website With a UI Framework</em> |
 
