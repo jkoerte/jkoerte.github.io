@@ -14,7 +14,7 @@ labels:
 ## I. Introduction
 AI in *anything* is undoubtedly a very controversial topic in this generation, and as for its role in education, English teachers might have some strong words on the matter...
 
-The current president of UH, Wendy Hensel, on the other hand, seems quite enthusiastic about [implementing](https://www.hawaii.edu/news/2026/07/16/ai-strategy-bor/) it.
+The current president of UH, Wendy Hensel, on the other hand, seems quite enthusiastic about implementing it.
 
 Here we have two sides of the argument, but my views fall somewhere in-between. I believe AI is a great tool to aid students' education, but not replace it. I am of the stance that students, including myself, still need to learn the topics and try to understand the information before chucking a prompt into an AI; and when students do use AI for assistance, they should also strive to understand the generated response and question its accuracy. In this way, students are not relying on AI for answers, but using it to build on what they already know.
 
@@ -24,19 +24,19 @@ In terms of Software Engineering, there is a lot of information to process, such
 
 ### II. Personal Experience With AI
 ### Experience quizzes e.g. E18
-I personally wanted to attempt all the practice WODs without the use of AI to better understand the concepts provided in the WOD. Also because there was always a video for me to watch showing the process of the programming done by one of the UH ICS professors which I could use instead after attempting it on my own to better understand and learn.
+I personally wanted to attempt all the practice WODs without the use of AI to better understand the concepts in the WOD. Also because there was always a video for me to watch showing the process of the programming done by one of the UH ICS professors, I could use that instead after attempting it on my own to better understand and learn.
 
 ### Practice quizzes
-SImilar to the Experience quizzes
+Similar to the Experience quizzes I wanted to attempt all of them without the use of AI to better understand the concepts and prepare me for the graded quizzes
 
 ### Quizzes
-Towards the beginning of the semester I felt that I should not use AI on the quizzes, but as the semester progressed, I realized I was only hurting myself by not using all the tools available to me. I  used it to remind myself of concepts such as all the Array methods that I was a bit foggy on, to check snippets of code where I suspected errors were coming from, and to check if ideas I suggested might work for the quiz requirements. Typically I would ask something like: "Would `<function/code here>` work for this part of the `<assignments requirement here>`?"
+Towards the beginning of the semester I felt that I should not use AI on the quizzes, but as the semester progressed, I realized I was only hurting myself by not using all the tools available to me. I used it to remind myself of concepts such as all the Array methods that I was a bit foggy on, to check snippets of code where I suspected errors were coming from, and to check if ideas I suggested might work for the quiz requirements. Typically I would ask something like: "Would `<function/code here>` work for this part of the `<assignments requirement here>`?"
 
 ### Essays
 I did not use AI to write any of my technical essays this semester, mostly because I have written many essays for my other classes such as HWST and AMST, and it has been drilled into my head not to use AI for said assignments. On top of that, even the ICS 314 website does not recommend using AI for writing essays
 
 ### Final project
-I used AI a lot for my final project, especially because I had very limited experience with PostgreSQL, Prisma, and React/Nextjs. Since we were given a website template, I often used AI to explain certain things in there such as the Prisma database query methods as well as help with certain React Bootstrap components not working as intended. Among these, I asked for help understanding various other things such as how the PostgreSQL database works with `schema.prsima` and what values are given and initially hidden when you call `findUnique()` or `findMany()` One prompt I gave Google Gemini was: "how can I edit the div with "Contact Us" in it to be larger font, only when it is md"
+I used AI a lot for my final project, especially because I had very limited experience with PostgreSQL, Prisma, and React/Nextjs. Since we were given a website template, I often used AI to explain certain things in there such as the Prisma database query methods as well as help with certain React Bootstrap components not working as intended. Among these, I asked for help understanding various other things such as how the PostgreSQL database works with `schema.prsima` and what values are given and initially hidden when you call `findUnique()` or `findMany()` One prompt I gave Google Gemini was: "Why does `session.user` not include added fields in `schema.prisma`"?
 
 The responses given by Gemini were very useful, and did not take much time to get a workable result.
 
@@ -64,7 +64,7 @@ The responses given by Gemini were very useful, and did not take much time to ge
 ### Writing code
 For React Bootstrap, because there are so many classes and props for each component, I would often ask Gemini something like: "How do I get my `<react component here>` to `<desired specifications here>`". Mostly I had trouble with centering my components and their contents using things like `justify-content-center`
 
-Often, the response from Gemini was not able to solve my problem, and so I had to look elsewhere for a solution.
+Often, the response from Gemini was not able to solve my problem, and so I had to figure it out on my own.
 
 In terms of more advanced things like Prisma functions, I would usually ask something like: "Why does `<code here>` not work?" and Gemini would usually write me out why it was broken on top of a code solution.
 
@@ -79,7 +79,7 @@ This is probably what I use AI the most for in my time programming. I run into a
 The responses given by Gemini were very useful in helping me to identify the problem, and did not take much time to verify and get a workable result.
 
 ### Other uses in ICS 314 not listed
-I cannot recall using AI in ICS 314 for other uses outside of the 13 listed above
+Sometimes if a WOD really confused me, I would ask Gemini to break it down and explain in more simple words what the instructions were asking for, such as: "Can you explain what `<instructions here>` is exactly asking for?"
 
 ## III. Impact on Learning and Understanding
 I believe AI has positively impacted my learning experience so far. I feel that it provided good explanations and solutions to my problems. 
@@ -96,6 +96,12 @@ Overall, I had no experience with Software Engineering before taking this class,
 An interesting practical application I can think of in the real world is the use of Gen-AI in game development. There is some controversy around it use, but many studios seem to use it for generating placeholders, and it is generally agreed upon that using it to clear out the menial tasks allows developers to spend more time on the challenging parts, saving both development time and resources. I am sure the same concept can be used to address real-world Software Engineering problems, such as making more time for Software Engineers to work on harder tasks when on tight deadlines from clients. However, my only frame of reference for projects is small in comparison to the large systems many companies have, and I feel that AI might struggle to be nearly as useful as it was for my project.
 
 ## V. Challenges and Opportunities
+I think the main challenge I faced when using AI was that it is not always accurate, but that is to be expected. I remember specifically all the times it would recommend me to use `justify-content-center` or `align-items-center` and nothing would happen. Also, it would very rarely generate answers that were too complicated for me, so I would not use them, and instead inquire in a different way to get an answer that more so matched my knowledge level.
+
+In regards to opportunities for further integration of AI in software engineering education, the first thing I would think of is having an AI to explain challenging concepts to students. I have also seen people use AI to create a schedule for them, and perhaps AI can be used to help create a schedule fo
+
+
+I often saw in the WOD vidoes, that GitHub CoPilot would often be very helpful
 
 ## VI. Comparative Analysis
 
