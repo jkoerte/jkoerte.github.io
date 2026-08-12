@@ -14,6 +14,10 @@ labels:
 ## I. Introduction
 AI in *anything* is undoubtedly a very controversial topic in this generation, and as for its role in education, English teachers might have some strong words on the matter...
 
+The current president of UH, Wendy Hensel, on the other hand, seems quite enthusiastic about [implementing](https://www.hawaii.edu/news/2026/07/16/ai-strategy-bor/) it.
+
+Here we have two sides of the argument, but my views fall somewhere in-between. I believe that AI can be a very useful tool for improving education, but not replacing it. As such, the way students use AI needs to be regulated
+
 Opinion on Ai how it diverts from Hensel and or what it brings to table/shouldn't be used for
 how it is use for SE
 
