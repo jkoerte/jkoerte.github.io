@@ -17,11 +17,9 @@ labels:
 Hello
 
 ## Be An Engineer, Be Ethical
-In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to understand the effect you can have on the many people using your app, and to take full responsibility should something happen. 
+In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to understand the effect you can have on the many people using your app, whether that be a data breach, a bug in the code, etc., and to take full responsibility should something happen. 
 
-Common sense?
-Simply because we are human, we have an ethical obligation to other humans, and this fact persists throughout everything, not just in the context of web apps. No matter what position you are in, chances are that your actions may cause harm to others, and so the most important thing is to avoid said harm
-do not be negligent
+Ethics is just common sense, and because we are human, we have an ethical obligation to other humans. This fact persists throughout everything, not just in the context of web apps. Every person must apply good ethics in both their personal and professional lives, no matter what position they are in. Chances are, that a persons actions has some capacity to cause harm to others, and so the most ethical thing is to avoid said harm to others at all costs. It is good practice to not be negligent in quality assurance, ensure privacy and confidentiality of sensitive information, maintain high competence in your work, be trustworthy and transparent, among many others
 
 ## Everybody's Got Issues
 For the final project of ICS 314, me and my two teammates learned to implement Agile Project Management (APM)&mdash;an approach that breaks large projects into smaller tasks. More precisely, we used a style of APM called Issue Driven Project Management (IDPM). The main rundown is that each team member is assigned at least one "issue" (fittingly named), which are all neatly organized in some sort of chart for all members to see clearly. Each member works on their "issue" separately, and then on some agreed upon day after about a week or so, all members reconvene, deliver their work, and combines it with the others. For my team, we called these days "milestones".
@@ -32,7 +30,7 @@ Breaking up the work makes the task much less daunting than if you were to look 
 
 So, maybe for your next team project, you should get some "issues" too...
 
-## UI Framewrks
+## The Standard Looks Good
 I also learned that in web design, a UI framework is a package of pre-built code and design patterns that simplify development of a layout, gives it an attractive loo-and-feel, and provides consistent results across browsers and devices.
 
 
