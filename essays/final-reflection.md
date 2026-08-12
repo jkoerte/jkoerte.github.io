@@ -7,18 +7,19 @@ date: 2026-06-11
 published: false
 labels:
   - Software Engineering
+  - Fundamental Concepts
   - Reflection
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../download.jpg">
 
 ## Introduction
-Throughout my time in ICS 314, I have learned to do more than just build websites. From Open Source Software Development to Design Patters, I have learned many fundamental software engineering concepts. I wan to take three of these concepts&mdash;Ethics, Agile Project Management, Coding Standards, and discuss their viability outside of the context of web application design.
+Throughout my time in ICS 314, I have learned to do more than just build websites. From Open Source Software Development to Design Patterns, I have learned many fundamental software engineering concepts. I want to take three of these concepts&mdash;Ethics, Agile Project Management, Coding Standards, and reflect on them as well as discuss their viability outside of the context of web application design.
 
 ## Be Anything, But Be Ethical
 In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to also understand the effect you can have on the many people using your app, whether that be a data breach, a bug in the code, etc., and to take full responsibility should something happen. Ethics is just common sense, and because we are human, we have an ethical obligation to other humans. This fact persists throughout everything, not just in the context of web apps. Every person must apply good ethics in both their professional and personal lives, no matter what position they are in. 
 
-For ethics on a professional level, chances are, that any persons actions has some capacity to cause harm to others, and so the most ethical thing is to avoid said harm to others at all costs. It is good practice to not be negligent in quality assurance, ensure privacy and confidentiality of sensitive information, maintain high competence in your work, be trustworthy and transparent, among many others. On top of that, it should also be common sense to want to put out something that will benefit others, that will be a positive contribution to the world. Do that, and there will most certainly be less of a chance of causing harm to others.
+For ethics on a professional level, chances are, that any person's actions has some capacity to cause harm to others, and so the most ethical thing is to avoid said harm to others at all costs. It is good practice to not be negligent in quality assurance, ensure privacy and confidentiality of sensitive information, maintain high competence in your work, be trustworthy and transparent, among many others. On top of that, it should also be common sense to want to put out something that will benefit others, that will be a positive contribution to the world. Do that, and there will most certainly be less of a chance of causing harm to others.
 
 For ethics on a personal level, it is intrinsic to you, and is applied wherever you go. Good personal ethics is to reflect on yourself and your actions. It is also the general idea of striving to become a better person. Doing this will reinforce your professional ethics as well. Someone lacking personal ethics would be indifferent to the potential harm afflicted on others, and thus good professional ethics would hold no meaning to them. All this to say, no matter where you go, being a better person can only benefit you and the others around you.
 
@@ -40,3 +41,6 @@ Having this standardized look and feel for code is useful not just for web appli
 
 ## Conclusion
 Overall, I hope to develop my fundamentals further while also experiencing things that will allow me to grow as both a person and a programmer. I believe all my previous ICS classes, and now ICS 314 will be able to help me achieve that, and in the future, I'm sure there will be many more opportunities to learn and experience great and helpful things.
+
+
+
