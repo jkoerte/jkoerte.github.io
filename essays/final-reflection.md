@@ -13,7 +13,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../download.jpg">
 
 ## Introduction
-Hello
+Throughout my time in ICS 314, I have learned to do more than just build websites. From Open Source Software Development to Design Patters, I have learned many fundamental software engineering concepts. I wan to take three of these concepts&mdash;Ethics, Agile Project Management, Coding Standards, and discuss their viability outside of the context of web application design.
 
 ## Be Anything, But Be Ethical
 In general, ethics means to live a good life and to try make a positive contribution to others and to the world. In terms of software engineering and web applications, it means to also understand the effect you can have on the many people using your app, whether that be a data breach, a bug in the code, etc., and to take full responsibility should something happen. Ethics is just common sense, and because we are human, we have an ethical obligation to other humans. This fact persists throughout everything, not just in the context of web apps. Every person must apply good ethics in both their professional and personal lives, no matter what position they are in. 
@@ -34,9 +34,9 @@ Breaking up the work makes the task much less daunting than if you were to look 
 So, maybe for your next team project, you should get some "issues" too...
 
 ## Even The Standard Looks Good
-I also learned that in web design, a UI framework is a package of pre-built code and design patterns that simplify development of a layout, gives it an attractive loo-and-feel, and provides consistent results across browsers and devices.
+During my time in ICS 314, I used ESLint as a way to enforce coding standards. When run, it checks all of my code against a set of predefined and custom rules to see if my code deviates from them. This set of rules is known as coding standards, which dictate how code should look and be written. This can be things such as putting a closing bracket `}` on its own separate line, or even how many empty lines are allowed between each line of code. The main appeal of coding standards is that it significantly improves readability and allows the prompt catching of any generic coding mistakes.
 
-
+Having this standardized look and feel for code is useful not just for web application development, but I believe it is useful in almost any field. For instance, you can often hear those in the gaming industry complaining about "spaghetti code"&mdash;code that is messy, and very hard to read. This, of course, makes it very challenging to understand, and thus even more challenging to update the code. This can sometimes limit the creativity of developers, as trying to add on to something they cannot understand only ends up breaking it. Even in non-software development fields, whether writing a report, documentation, etc., a little structure and readability goes a long way Allowing people to grasp your work faster expedites the flow of work in this way.
 
 ## Conclusion
 Overall, I hope to develop my fundamentals further while also experiencing things that will allow me to grow as both a person and a programmer. I believe all my previous ICS classes, and now ICS 314 will be able to help me achieve that, and in the future, I'm sure there will be many more opportunities to learn and experience great and helpful things.
