@@ -4,13 +4,13 @@ type: essay
 title: "When AI Answers, Do You Listen?"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-011
-published: false
+published: true
 labels:
   - AI
   - Critical Analysis
   - Reflection
 ---
-<img width="400px" class="rounded me-5 float-right" src="../img/craigslist.png" alt="Website Without UI Framework">
+<img width="400px" class="rounded me-5" src="../img/gemini-logo.png" alt="Website Without UI Framework">
 
 ## I. Introduction
 AI in *anything* is undoubtedly a very controversial topic at the moment, and as for its role in education, English teachers might have some strong words on the matter...
