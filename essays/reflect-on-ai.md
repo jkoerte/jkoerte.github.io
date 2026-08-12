@@ -10,7 +10,7 @@ labels:
   - Critical Analysis
   - Reflection
 ---
-<img width="400px" class="rounded me-5" src="../img/gemini-logo.png" alt="Website Without UI Framework">
+<img width="400px" class="rounded me-5 float-start" src="../img/gemini-logo.png" alt="Website Without UI Framework">
 
 ## I. Introduction
 AI in *anything* is undoubtedly a very controversial topic at the moment, and as for its role in education, English teachers might have some strong words on the matter...
