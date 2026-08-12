@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "When AI Answers, Do You Listen?"
 # All dates must be YYYY-MM-DD format!
-date: 2026-08-011
+date: 2026-08-11
 published: true
 labels:
   - AI
