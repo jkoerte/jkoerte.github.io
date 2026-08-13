@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/Gym-Shark.png
 title: "Rainbow Gyms"
 date: 2026
 published: true
