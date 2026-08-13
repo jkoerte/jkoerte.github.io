@@ -4,7 +4,7 @@ type: project
 image: img/vacay/vacay-square.png
 title: "Rainbow Gyms"
 date: 2026
-published: false
+published: true
 labels:
   - TypeScript
   - Nextjs
