@@ -50,4 +50,23 @@ Rainbow Gyms is deployed on [Vercel](https://vercel.com/) with [Nextjs](https://
 
 In this project I gained experience with full-stack web application design and associated technologies, including [PostgreSQL](https://www.postgresql.org/) for database storage, the [React Bootstrap](http://getbootstrap.com/) Front-End Framework for the user interface, the [Prisma ORM](https://www.prisma.io/) for database functions, and TypeScript for both client and server-side programming. 
 
+###### Browse Page
+<img class="img-fluid rounded shadow w-50" src="../img/rainbow-gym-browse.png" />
+
+
+###### My Sessions Page
+<img class="img-fluid rounded shadow w-50" src="../img/rainbow-gym-sessions.png" />
+
+
+###### Create Page
+<img class="img-fluid rounded shadow w-50" src="../img/rainbow-gym-create.png" />
+
+
+###### Calendar Page
+<img class="img-fluid rounded shadow w-50" src="../img/rainbow-gym-calendar.png" />
+
+
+
+
+
 [Link](https://rainbow-gyms.github.io/) to our team's GitHub Home Page
