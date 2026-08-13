@@ -17,22 +17,18 @@ As a whole, the idea of Software Engineering is still quite new to me. ICS 314 i
 ## Plumbing Up With Analogies For Design Patterns
 Now, if you are anything like me, then this will be a difficult concept to grasp, so perhaps it is better to think about it like plumbing for a house...
 
-Suppose that you want flowing water to all your plumbing fixtures (sink, toilet, shower/bath, etc.). There is not just one set way to establish pipe lines to each fixture; lots of houses have different structures, interiors, and so on. Your local hardware store does not sell pre-built "one size fits all" pipe layouts, because they do not exist. More generally, a single-story house will more than likely not have the same pipe pattern as a two story house, or a three story apartment. And yet despite the differences in layout, the best practice of potential problems remains the same
+Suppose that you want flowing water to all your plumbing fixtures (sink, toilet, shower/bath, etc.). There is not just one set way to establish pipe lines to each fixture; lots of houses have different structures, interiors, and so on. Your local hardware store does not sell pre-built "one size fits all" pipe layouts, because they do not exist. More generally, a single-story house will more than likely not have the same pipe pattern as a two story house, or a three story apartment. And yet despite the differences in layout, the fundamental architectural challenges, and the best practices used to solve them remain the same.
 
-The foremost problem of plumbing is even getting water to the fixtures. If you had an individual pipe for every fixture, it would not be very good for your house. The best practice in this case is to find some way to give each house only one central, main water supply entryway. The idea remains the same, but the execution may be different depending on various factors such as location.
+The foremost problem of plumbing is even getting water to the fixtures. If you had an individual pipe for every fixture, you would be left with a tangled-up and heavily strained piping system. The best practice plumbers use in this case is a standardized structural pattern in which they establish a single, central main intake line. The idea remains the same, but the execution may be different depending on various factors such as location.
 
-Another important problem is getting clean water to use. The best practice here is obviously to run it through several filters, with each building off the previous filter. While the design pattern of using filters for dirty water remains the same, how it is executed can differ.
+Another major problem in plumbing is water condition and pressure. Water coming straight from the main utility pipe is under extreme pressure and usually  contains harmful sediment or minerals. The best practice in this situation is to install a pressure regulator and water filter after the main utility pipe.
 
 ## From Plumbing to Programming
-Now that I have shared some analogies for design patterns via plumbing, I will try to relate those to some I have used in my final project for ICS 314.
+In terms of a central, main water supply entryway, it is an example of the Singleton Pattern. My team and I use a single Prisma connection to our database. Creating a connection for each page that needs to access some part of the database would eventually make too many for it to handle. Using Prisma, no matter how many pages or components request data, they all route through that exact same central instance, just like every faucet in a house drawing from one main intake pipe.
 
-In terms of a central, main water supply entryway, my team and I use a single Prisma connection to our database. Creating a connection for each page that needs to access some part of the database would eventually make too many for it to handle. Thus, the design pattern of having only a single connection is useful here, and executed with Prisma.
-
-In terms of the water filter, I need data associated with a user to be usable in the current session, so I first need to "filter" it through `authorize()` to validate the user's credentials. Then, I "filter" it through `jwt()` to encrypt it in tokens. Finally, `session()` "filters" out whatever data came from `jwt()` that is not safe to be displayed on the frontend.
+Meanwhile, the pressure regulator and water filter is a real-world example of the Data Mapper Pattern. In our database, we have raw "unfiltered" PostgreSQL data. Passing that data directly into frontend React components would cause many errors. Prisma acts as our Data Mapper: it sits between our raw database and our UI, translating raw database records into clean, safe, and usable TypeScript objects.
 
 ## Final Thoughts
 Design patterns are nothing like UI frameworks despite initially thinking so. Design patterns are a lot more flexible, and I see that it is used for backend development such as databases, connections, etc. and not so much for the frontend compared to UI components.
 
-*Use of Google Gemini 3.6 Flash Extended to assist in creation of analogies*
-
-
+*Use of Google Gemini 3.6 Flash Extended to create of analogies*
