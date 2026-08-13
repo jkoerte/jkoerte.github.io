@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java" ]
+      "keywords": [ "C", "C++", "Java", "TypeScript", "Nextjs", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 11", "Linux/Windows Powershell" ]
+      "keywords": [ "Windows 11", "VSCode", "Windows Powershell", "Ubuntu via WSL 2", "Git/GitHub", "PostgreSQL" ]
     }
   ],
   "education": [
