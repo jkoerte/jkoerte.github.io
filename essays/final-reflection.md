@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learn The Fundamentals, Use Them Anywhere"
 # All dates must be YYYY-MM-DD format!
-date: 2026-06-11
+date: 2026-08-11
 published: true
 labels:
   - Software Engineering
@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../download.jpg">
+<img width="200px" class="rounded mb-1" src="../download.jpg">
 
 ## Introduction
 Throughout my time in ICS 314, I have learned to do more than just build websites. From Open Source Software Development to Design Patterns, I have learned many fundamental software engineering concepts. I want to take three of these concepts&mdash;Ethics, Agile Project Management, Coding Standards, and reflect on them as well as discuss their viability outside of the context of web application development.
