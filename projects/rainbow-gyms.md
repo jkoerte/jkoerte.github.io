@@ -17,7 +17,7 @@ labels:
 summary: "A responsive web application for UH Manoa students that some of my classmates and I developed for ICS 314."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png" />
+<img class="img-fluid rounded shadow" src="../img/rainbow-gym-home.png" />
 
 Rainbow Gyms is a responsive web application designed to allow UH Manoa students to create and participate in scheduled workout sessions that I helped create as a team project in ICS 314, Summer 2026. The main goal of Rainbow Gyms is to give students more opportunities to stay healthy and connected by making it easy to find workouts and interact with other students.
 
