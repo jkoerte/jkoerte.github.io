@@ -11,7 +11,7 @@ labels:
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/design-patterns.png">
 
-## You Can Just Copy-And-Paste, Right?... Wrong
+## You Can Just Copy-And-Paste, Right?
 As a whole, the idea of Software Engineering is still quite new to me. ICS 314 is my first experience with anything of the sort. Therefore, my understanding of design patterns is quite limited as well, much more so than other topics covered in the class so far. However, if there is one thing I am sure of, it is that design patterns are not something you just copy and paste into your code. It does not have a strict or precise format, but is instead more of an idea that can be executed in many ways to solve a problem.
 
 ## Plumbing Up With Analogies For Design Patterns
@@ -31,4 +31,4 @@ Meanwhile, the pressure regulator and water filter is a real-world example of th
 ## Final Thoughts
 Design patterns are nothing like UI frameworks despite initially thinking so. Design patterns are a lot more flexible, and I see that it is used for backend development such as databases, connections, etc. and not so much for the frontend compared to UI components.
 
-*Use of Google Gemini 3.6 Flash Extended to create of analogies*
+*Use of Google Gemini 3.6 Flash Extended to create analogy*
