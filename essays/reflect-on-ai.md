@@ -34,7 +34,10 @@ Similar to the Experience quizzes I wanted to attempt all of them without the us
 Towards the beginning of the semester I felt that I should not use AI on the quizzes. As the semester progressed, I realized I was only hurting myself by not using all the tools available to me. I used it to remind myself of concepts such as all the array methods that I was a bit foggy on, to check snippets of code where I suspected errors were coming from, and to check if ideas I suggested might work for the quiz requirements. Typically I would ask something like: "Would `<function/code here>` work for this part of the `<assignments requirement here>`?"
 
 #### 4. Essays
-I did not use AI to write any of my technical essays this semester, mostly because I have written many essays for my other classes such as HWST and AMST, and it has been drilled into my head not to use AI for said assignments. On top of that, even the ICS 314 website does not recommend using AI for writing essays
+I did not use AI to help me write all but one of my technical essays this semester, mostly because I have written many essays for my other classes such as HWST and AMST, and it has been drilled into my head not to use AI for said assignments. On top of that, even the ICS 314 website does not recommend using AI for writing essays
+
+The one essay I did use it on, was because I had an extremely hard time figuring out how to make an analogy for design patterns.
+The prompt I gave was something like: "Can you make an analogy about plumbing for the `<insert code here>` that I used in regards to design patterns in software engineering?"
 
 #### 5. Final project
 I used AI a lot for my final project, especially because I had very limited experience with PostgreSQL, Prisma, and React/Nextjs. Since we were given a website template, I often used AI to explain certain things in there such as the Prisma database query methods and help with certain React Bootstrap components not working as intended. Among these, I asked for help understanding various other things such as how the PostgreSQL database works with `schema.prsima` and what values are given and initially hidden when you call `findUnique()` or `findMany()` One prompt I gave Google Gemini was: "Why does `session.user` not include my added fields in the User model in `schema.prisma`"?
