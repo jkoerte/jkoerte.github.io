@@ -18,7 +18,7 @@ I was tasked with visiting StackOverflow, a Q&A website for programmers, to expa
 
 ---
 
-```
+```javascript
 Q: Check if a string is composed of all unique characters-- not equal to operator in JavaScript
 
 I have written the following code to check if a string is composed of all unique characters
@@ -54,7 +54,7 @@ To me, this response seems decently smart. First of all, they start with a “ob
 
 In return for this good question, the user received a very thorough response:
 
-```
+```javascript
 There are two values in JavaScript which are very similar to each other: undefined and null.
 
 undefined is the default state of all variables, including the value of unknown properties in an object.
@@ -101,7 +101,7 @@ Here we have an example of someone who really didn't even try. He offers little 
 
 ---
 
-```
+```javascript
 Q: Creating a recursive method for Palindrome
 
 I am trying to create a Palindrome program using recursion within Java but I am stuck, this is what I have so far:
