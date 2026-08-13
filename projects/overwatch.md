@@ -4,7 +4,7 @@ type: project
 image: img/Overwatch_circle_logo.svg.png
 title: "Overwatch"
 date: Present
-published: true
+published: false
 labels:
   - Gaming
   - Skill
