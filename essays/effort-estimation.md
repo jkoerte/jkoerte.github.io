@@ -23,7 +23,7 @@ In my case, I was usually cautious, and so I would give myself plenty of time to
 
 In the case of someone who is not cautious, it might spur them on to start their work a bit earlier than normal. In the case of someone stressed by all the tasks ahead, then an estimation of the time needed might reveal that they have less to be worried about than they thought.
 
-## Keep Track Of Actual Effort, Get Actual Benefits
+## Track Actual Effort, Get Actual Benefits
 I believe that keeping track of my actual effort was useful. For example, a lot of my tasks were to work on the style of our website, so it was helpful to use my past tasks to inform my future ones. Also, even if I did usually start my tasks with ample time left to finish them before out milestone due dates, I think it made me less stressed about the task overall. For my first task I underestimated the time it would take to finish creating the style of some pages, and so it taught me not to underestimate the complexity of HTML, CSS, and React Bootstrap even though I felt comfortable using them beforehand. I also believe it may have helped my teammates to assign tasks more appropriate for me based on how long my previous ones took me.
 
 ## Taking My Time
