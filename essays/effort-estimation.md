@@ -27,17 +27,12 @@ In the case of someone who is not cautious, it might spur them on to start their
 I believe that keeping track of my actual effort was useful. For example, a lot of my tasks were to work on the style of our website, so it was helpful to use my past tasks to inform my future ones. Also, even if I did usually start my tasks with ample time left to finish them before out milestone due dates, I think it made me less stressed about the task overall. For my first task I underestimated the time it would take to finish creating the style of some pages, and so it taught me not to underestimate the complexity of HTML, CSS, and React Bootstrap even though I felt comfortable using them beforehand. I also believe it may have helped my teammates to assign tasks more appropriate for me based on how long my previous ones took me.
 
 ## Taking My Time
-The way I tracked my actual efforts was also through my best guesses. I would usually just try my best to keep track of when I started a task, and when I stopped working. I think the way I worked went in my favor, because I would often do my work in big chunks until I finally reached a good stopping point&mdash;usually when my local test development page showed what I wanted with no errors&mdash;so, there was not many breaks and other things to try and account for. Because of this, I think my estimates were accurate enough, especially because they generally agreed with AI's estimate of my actual effort.
+The way I tracked my actual efforts was also through my best guesses. I would usually just try my best to keep track of when I started a task, and when I stopped working. I think the way I worked went in my favor, because I would often do my work in big chunks until I finally reached a good stopping point&mdash;usually when my local test development page showed what I wanted with no errors&mdash;so, there was not many breaks and other things to try and account for. Because of all this, I believe my estimates are quite accurate.
 
 ## Improving My Efforts Toward Estimating
-In terms of my estimation and tracking of actual effort, I would definitely incorporate more specialized tools for both the next time I work on a project. Even while only using my best guesses, I can still see the benefits that effort estimation and tracking brings. I would probably use AI to create initial estimates of the tasks I need to complete, and I would keep track of my actual effort using a tool like WakaTime, or maybe the GitHub CoPilot timer in VSCode, for starters.
+In terms of my estimation and tracking of actual effort, I would definitely incorporate more specialized tools for both the next time I work on a project. Even while only using my best guesses, I can still see the benefits that effort estimation and tracking brings. 
 
-## The Assistance Of AI
-As mentioned above, I did use AI
-
-since I used AI to help me with my tasks,
-after I was done with each, I could get its best estimation on how much actual effort it required of me
-such as template from WODs, and some parts of my teammate's design that I could use for consistent styling across all the pages
+Next time, I would probably use AI to create initial estimates of the tasks I need to complete, and I would keep track of my actual effort using a tool like WakaTime, or maybe the GitHub CoPilot timer in VSCode, for starters.
 
 ## Conclusion
 
