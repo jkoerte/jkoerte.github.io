@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation: Predictions That Have Payoffs"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-17
-published: false
+published: true
 labels:
   - Software Engineering
   - Effort Estimation
